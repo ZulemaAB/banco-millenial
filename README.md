@@ -52,14 +52,14 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
     - Priorizar lista de features y definir el MVP.  
 
 
-#### Día 6:
+#### Día 5:
 - **Testeo**
      - Hacer un content prototype.  
      - Testearlo en pareja con compañeras de otro squad.
      - Testeo del prototype a diferentes personas enfocandonos en los Milleneals.
 
 
-#### Día 7:
+#### Día 6:
 - **Exposicion final**
      - Testeo del la ultima versión del prototype.
      - Presentación final del prototype.
@@ -69,9 +69,9 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 
 ## **UX RESEARCH Y ANALISIS DE USUARIO.**
 
-## **Encuestas presenciales.**
+## **Entrevistas.**
 
-![Hoja de planificacion](assets/images/collage.jpg)  
+![Hoja de planificacion](assets/images/planificación.jpg)  
 
 - Entrevistamos a 5 Milleneals de entre 23 a 27años para evaluar sus necesidades.
 - Grabamos las entrevistas de los usuarios para centrarnos en el lenguaje corporal.  
@@ -133,9 +133,6 @@ Se encuesto a 24 Milleneals entre 20 y 29 años para averiguar sus necesidades a
 
 ![Encuestas](assets/images/encuesta/2.PNG)
 
-
-![Encuestas](assets/images/encuesta/2.PNG)
-
 ![Encuestas](assets/images/encuesta/3-1.PNG)
 
 ![Encuestas](assets/images/encuesta/3-2.PNG)
@@ -166,9 +163,33 @@ Empleamos el **Diagrama de Afinidad** para poder identificar  y clasificar los d
 Se consideró clasificar las necesidades e inconvenientes por temas.
 
 Por ejemplo :
-
+- Información más clara y sencilla de entender.
+- Disponer de todas sus cuentas desde una sola aplicación .
+- Poder realizar diversas transacciones sin exceso de cobro en comisiones.
+- Beneficios por el uso de sus operaciones.
  -
 
 ![Diagrama](assets/images/diagrama-2.jpg)
 
 ![Diagrama](assets/images/diagrama-3.jpg)
+
+#### Día 4
+## **DIAGRAMA DE AFINIDAD**
+![Diagrama](assets/images/map1.jpg)
+![Diagrama](assets/images/map2.jpg)
+![Diagrama](assets/images/map3.jpg)
+![Diagrama](assets/images/map4.jpg)
+
+#### Día 5:
+- **Testeo**
+
+     - Se logro  testearlo en pareja con compañeras de otro squad asimilando  de manera efectiva el feedback correspondiente.
+     - Se realizo testeo tambien con usuario(milleneals 5) y mostraron gran interest por la sencilles y grandes beneficios que les proporciona Kimoni .
+
+
+#### Día 6:
+- **Exposicion final**
+     - Testeo del la ultima versión del prototype.
+     - Presentación final del prototype.
+
+     ![Diagrama](assets/images/kimoni2.PNG)
